@@ -1,4 +1,4 @@
-API de pagamentos oficial Pagseguro com Codeigniter (Checkout padrão).
+API V2 de pagamentos oficial Pagseguro com Codeigniter (Checkout padrão).
 <br>
 <br>
 Como usar:

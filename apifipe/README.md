@@ -1,8 +1,8 @@
 # API FIPE NÃO OFICIAL.
 ## Funcionalidades: <br />
-> Listar marcas de carros, motos e caminhões
-> Listar modelos com base no tipo de veículo
-> Listar ano e tipo de combustível dos veículos
+> Listar marcas de carros, motos e caminhões <br />
+> Listar modelos com base no tipo de veículo <br />
+> Listar ano e tipo de combustível dos veículos <br />
 > Obter informacões gerais como preco médio e etc.
 <br />
 ## Como usar: <br />

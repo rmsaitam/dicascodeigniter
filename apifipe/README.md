@@ -4,8 +4,8 @@
 > Listar modelos com base no tipo de veículo <br />
 > Listar ano e tipo de combustível dos veículos <br />
 > Obter informacões gerais como preco médio e etc.
-<br />
-## Como usar: <br />
+
+###### Como usar:
 1. Para listar as marcas dos veículos/moto/caminhão: http://baseurl/fipe/getmarcas
    - Não se esqueca de setar o tipo de véiculo a listar
 2. Para listar os modelos do veículo selecionado: http://baseurl/fipe/getmodelos
